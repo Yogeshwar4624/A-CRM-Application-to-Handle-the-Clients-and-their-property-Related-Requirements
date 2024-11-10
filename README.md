@@ -29,6 +29,12 @@ Created a Jotform to capture customer information.
 
 Integrated Jotform with Salesforce to automatically create customer records.
 
+Jotform link:
+
+https://www.jotform.com/form/243133825679060
+
+
+
 Custom Objects:
 
 Created custom objects from the provided spreadsheet.
